@@ -73,7 +73,7 @@ class MinecraftWebWorld(WebWorld):
         ["TheLynk"]
     )
 
-    tutorials = [setup, setup_es, setup_sv, setup_fr]
+    tutorials = [setup, setup_es, setup_sv, setup_f adadr]
 
 
 class MinecraftWorld(World):
